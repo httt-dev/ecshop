@@ -72,13 +72,13 @@ class bank
      *
      * @return void
      */
-    function bank()
-    {
-    }
-
     function __construct()
     {
         $this->bank();
+    }
+
+    function bank()
+    {
     }
 
     /**

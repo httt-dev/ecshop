@@ -76,13 +76,13 @@ class tenpayc2c
      *
      * @return void
      */
-    function tenpayc2c()
-    {
-    }
-
     function __construct()
     {
         $this->tenpayc2c();
+    }
+
+    function tenpayc2c()
+    {
     }
 
     /**
